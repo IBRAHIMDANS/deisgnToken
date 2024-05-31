@@ -1,0 +1,64 @@
+{
+  "size": {
+    "space0": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 0
+    },
+    "space2": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 2
+    },
+    "space4": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 4
+    },
+    "space8": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 8
+    },
+    "space12": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 12
+    },
+    "space16": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 16
+    },
+    "space24": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 24
+    },
+    "space32": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 32
+    },
+    "space40": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 40
+    },
+    "space80": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 80
+    }
+  }
+}

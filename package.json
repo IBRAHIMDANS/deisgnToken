@@ -1,0 +1,13 @@
+{
+  "name": "design-system",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build:tokens": "yarn clean && node ./style-dictionary.config.mjs",
+    "clean": "rm -rf build"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.9.2"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "brand":  {
+      "brand100": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{color.violet.violet100}"
+      },
+      "brand200": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{color.violet.violet200}"
+      },
+      "brand400": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{color.violet.violet400}"
+      },
+      "brand700": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{color.violet.violet700}"
+      },
+      "brand900": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{color.violet.violet900}"
+      },
+      "brand1000": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{color.violet.violet1000}"
+      }
+    }
+}

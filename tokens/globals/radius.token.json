@@ -1,0 +1,22 @@
+{
+  "size": {
+    "radius4": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 4
+    },
+    "radius16": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 16
+    },
+    "radiusInfinite": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 999
+    }
+  }
+}

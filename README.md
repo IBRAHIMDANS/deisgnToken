@@ -1,6 +1,6 @@
 # Design token
 
-Deisgn system generate multiple token with style dictionary.
+Design system generate multiple token with style dictionary.
 
 The directory structure for tokens is as follows:
 

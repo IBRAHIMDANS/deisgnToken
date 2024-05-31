@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Fri, 31 May 2024 16:39:21 GMT
+-->
+<resources>
+  <dimen name="font_letter_spacing_none">0.00dp</dimen>
+  <dimen name="font_letter_spacing_s">4.80dp</dimen>
+  <dimen name="font_letter_spacing_m">8.00dp</dimen>
+  <dimen name="font_letter_spacing_l">9.60dp</dimen>
+  <dimen name="font_letter_spacing_xl">11.20dp</dimen>
+  <dimen name="font_paragraph_spacing_none">0.00dp</dimen>
+  <dimen name="font_paragraph_spacing_base">192.00dp</dimen>
+  <dimen name="size_thickness1">16.00dp</dimen>
+  <dimen name="size_space0">0.00dp</dimen>
+  <dimen name="size_space2">32.00dp</dimen>
+  <dimen name="size_space4">64.00dp</dimen>
+  <dimen name="size_space8">128.00dp</dimen>
+  <dimen name="size_space12">192.00dp</dimen>
+  <dimen name="size_space16">256.00dp</dimen>
+  <dimen name="size_space24">384.00dp</dimen>
+  <dimen name="size_space32">512.00dp</dimen>
+  <dimen name="size_space40">640.00dp</dimen>
+  <dimen name="size_space80">1280.00dp</dimen>
+  <dimen name="size_radius4">64.00dp</dimen>
+  <dimen name="size_radius16">256.00dp</dimen>
+  <dimen name="size_radius_infinite">15984.00dp</dimen>
+  
+</resources>
